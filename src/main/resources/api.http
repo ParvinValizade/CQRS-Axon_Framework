@@ -1,0 +1,13 @@
+POST http://localhost:8080/v1/api/order/create
+
+###
+
+PUT http://localhost:8080/v1/api/order/update/56733663-c35f-408c-bfbe-9662e484d1a3/20
+
+###
+
+PUT http://localhost:8080/v1/api/order/update/56733663-c35f-408c-bfbe-9662e484d1a3/100
+
+###
+
+GET http://localhost:8080/v1/api/order
